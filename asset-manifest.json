@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/xo-game/static/css/main.828c42aa.chunk.css",
+    "main.js": "/xo-game/static/js/main.59f05e62.chunk.js",
+    "main.js.map": "/xo-game/static/js/main.59f05e62.chunk.js.map",
+    "runtime-main.js": "/xo-game/static/js/runtime-main.25cf99c2.js",
+    "runtime-main.js.map": "/xo-game/static/js/runtime-main.25cf99c2.js.map",
+    "static/js/2.ea4bbe14.chunk.js": "/xo-game/static/js/2.ea4bbe14.chunk.js",
+    "static/js/2.ea4bbe14.chunk.js.map": "/xo-game/static/js/2.ea4bbe14.chunk.js.map",
+    "static/js/3.2f8746b2.chunk.js": "/xo-game/static/js/3.2f8746b2.chunk.js",
+    "static/js/3.2f8746b2.chunk.js.map": "/xo-game/static/js/3.2f8746b2.chunk.js.map",
+    "index.html": "/xo-game/index.html",
+    "static/css/main.828c42aa.chunk.css.map": "/xo-game/static/css/main.828c42aa.chunk.css.map",
+    "static/js/2.ea4bbe14.chunk.js.LICENSE.txt": "/xo-game/static/js/2.ea4bbe14.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/xo-game/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25cf99c2.js",
+    "static/js/2.ea4bbe14.chunk.js",
+    "static/css/main.828c42aa.chunk.css",
+    "static/js/main.59f05e62.chunk.js"
+  ]
+}
