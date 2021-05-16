@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import React, { Component } from 'react';
+import VideoPayer from './components/video-player.js'
 
 class App extends Component {
   constructor(props) {
@@ -54,9 +55,7 @@ class App extends Component {
       <div className="App">
         <div className="container">
           <h1 className="titre">{this.state.titre}</h1>
-          <div className="game-content">
-            {arrow_doms}
-          </div>
+          <VideoPayer />
         </div>
       </div>
     );
